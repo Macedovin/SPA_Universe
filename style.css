@@ -161,11 +161,11 @@ img.error-page {
   justify-content: center;
 
   gap: 10.8rem;
-  margin-top: -10rem;
 }
 
 .center.home {
   gap: 2.4rem;
+  margin-top: -10rem;
 }
 
 .center .texts {
