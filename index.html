@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SPA Universe</title>
+
+    <link
+      rel="shortcut icon"
+      href="./assets/Vector-ico.ico"
+      type="image/x-icon"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <header>
+      <a class="symbol" href="/"></a>
+      <nav>
+        <ul>
+          <li>
+            <a href="/" onclick="route()" id="home">Home</a>
+          </li>
+          <li>
+            <a href="/universe" onclick="route()" id="universe">O Universo</a>
+          </li>
+          <li>
+            <a href="/exploration" onclick="route()" id="exploration"
+              >Exploração</a
+            >
+          </li>
+          <!--           <li>
+            <a href="/404" onclick="route()">404</a>
+          </li> -->
+        </ul>
+      </nav>
+    </header>
+
+    <div id="app"></div>
+
+    <footer>
+      Feito por
+      <a href="https://github.com/Macedovin" target="_blank">Macedovin</a>
+    </footer>
+    <script src="./scripts/index.js" type="module"></script>
+  </body>
+</html>
