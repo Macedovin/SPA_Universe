@@ -21,7 +21,7 @@ Para ver o funcionamento da aplicação siga os seguintes passos:
 <ul>
   <li><strong>Instalar o Node.js</strong> no computador;</li>
   <li>Abrir o <strong>VSCode</strong> no diretório do seu projeto;</li>
-  <li>Abrir o Terminal (Ctrl+J) e digitar <strong>npm install lite-server</strong>;</li>
+  <li>Abrir o Terminal (Ctrl+J) e digitar <strong>"npm install lite-server"</strong>;</li>
   <li>Depois digitar <strong>"npm start"</strong>.</li>
 </ul>
 
