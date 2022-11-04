@@ -9,7 +9,7 @@ Projeto criado como exercício de aprendizado de <strong>SPA (Single Page Applic
 <ul>
   <li>Conceitos de <strong>SPA - Single Page Application</strong>;</i>
   <li><strong>Mapeamento de rotas</strong>;</li>
-  <li>Java Script <strong>Assíncrono e promises</strong>;</li>
+  <li>JavaScript <strong>Assíncrono e promises</strong>;</li>
   <li><strong>POO - Programação Orientação a objetos</strong>;</li>
   <li><strong>Classes</strong>.</li>
 </ul>
