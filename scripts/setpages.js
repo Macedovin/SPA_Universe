@@ -24,12 +24,12 @@ export default function PageSetUp({ homeLink, universeLink, explorationLink }) {
   }
 
   function setPage() {
-    if (window.location.pathname == '/') {
+    if (window.location.pathname === '/') {
       highLightReset()
       highLight(homeLink)
       console.log('Home')
       return
-    } else if (window.location.pathname == '/universe') {
+    } else if (window.location.pathname === '/universe') {
       highLightReset()
       highLight(universeLink)
       console.log('Universe')
