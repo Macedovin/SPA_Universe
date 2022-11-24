@@ -76,7 +76,7 @@ To reach this layouts, based on the original project of _Daniel Duarte_, provide
 ## Preview
 
 <h1 align="center">
-    <img src="https://github.com/Macedovin/SPA_Universe/blob/main/SPA-Universe_view.gif">
+    <img src="https://github.com/Macedovin/SPA_Universe/blob/main/README-Images/SPA-Universe_view.gif">
 </h1>
 
 ## Tech Stack
