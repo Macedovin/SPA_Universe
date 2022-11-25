@@ -98,7 +98,7 @@ To view that application functioning follow along the next steps:
 - In the project root directory, install **lite-server** typing this command line:
 
 ```bash
-   npm install lite-server
+   npm install
 ```
 
 > To follow this step, [NodeJS with NPM](https://nodejs.org/) is required.
